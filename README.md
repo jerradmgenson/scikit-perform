@@ -38,6 +38,7 @@ make | model | submodel | year | cpu | memory | os | single-core score | multi-c
 ---- | ----- | -------- | ---- | --- | ------ | -- | ----------------- | ---------------- | -----
 Acer|Aspire|E 15|2018|Intel Core i5-8250U |8GB DDR4 |Linux Mint 20.1 Ulyssa - Cinnamon (64-bit)|999|3025|
 HP|EliteBook|830 G6|2019|Intel Core i5-8365U|16GB DDR4-2400 SDRAM|Windows 10 Enterprise|880|1931|
+HP|Chromebook 14|ak050nr|2015|Intel Celeron N2940|4GB DDR3L SDRAM|Lubuntu 20.04.2 amd64|308|957|
 Radxa|Rock Pi X|v1.4|2020|Intel Atom x5-Z8350 Cherry Trail|2GB LPDDR3@1866Mb/s|Ubuntu Server 20.04.2 amd64|257|733|
 Raspberry Pi|4|Model B|2019|Broadcom BCM2711 Quad core Cortex-A72|4GB LPDDR4-3200 SDRAM|Ubuntu Server 20.04.4 arm64|253|698|
 TI|BeagleBone Black|Revision C|2014|AM335x 1GHz ARM Cortex-A8|512MB DDR3 RAM|Debian 10|10||
