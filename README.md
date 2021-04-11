@@ -42,3 +42,4 @@ HP|Chromebook 14|ak050nr|2015|Intel Celeron N2940|4GB DDR3L SDRAM|Lubuntu 20.04.
 Radxa|Rock Pi X|v1.4|2020|Intel Atom x5-Z8350 Cherry Trail|2GB LPDDR3@1866Mb/s|Ubuntu Server 20.04.2 amd64|257|733|
 Raspberry Pi|4|Model B|2019|Broadcom BCM2711 Quad core Cortex-A72|4GB LPDDR4-3200 SDRAM|Ubuntu Server 20.04.4 arm64|253|698|
 TI|BeagleBone Black|Revision C|2014|AM335x 1GHz ARM Cortex-A8|512MB DDR3 RAM|Debian 10|10||
+TI|PocketBeagle|Revision A2|2017|Octavo Systems OSD3358-SM 1-GHz ARM Cortex-A8|512MB DDR3 RAM|Debian 10|13||
