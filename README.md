@@ -36,8 +36,10 @@ operating systems with slight modifications.
 
 make | model | submodel | year | cpu | memory | os | single-core score | multi-core score | notes
 ---- | ----- | -------- | ---- | --- | ------ | -- | ----------------- | ---------------- | -----
+Apple|Mac Mini|M1|2020|APL1102|16GB LPDDR4X-4266 SDRAM|macOS 26 Tahoe|1376|4325|
 Acer|Aspire|E 15|2018|Intel Core i5-8250U |8GB DDR4 |Linux Mint 20.1 Ulyssa - Cinnamon (64-bit)|999|3025|
 HP|EliteBook|830 G6|2019|Intel Core i5-8365U|16GB DDR4-2400 SDRAM|Windows 10 Enterprise|880|1931|
+Raspberry Pi|5|Model B|2025|Broadcom BCM2712 Quad core Cortex-A76|16GB LPDDR4X-4267 SDRAM|Ubuntu Server 24.04 arm64|717|1722|
 HP|Chromebook 14|ak050nr|2015|Intel Celeron N2940|4GB DDR3L SDRAM|Lubuntu 20.04.2 amd64|308|957|
 Radxa|Rock Pi X|v1.4|2020|Intel Atom x5-Z8350 Cherry Trail|2GB LPDDR3@1866Mb/s|Ubuntu Server 20.04.2 amd64|257|733|
 Raspberry Pi|4|Model B|2019|Broadcom BCM2711 Quad core Cortex-A72|4GB LPDDR4-3200 SDRAM|Ubuntu Server 20.04.4 arm64|253|698|
