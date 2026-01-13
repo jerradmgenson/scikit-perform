@@ -36,6 +36,7 @@ operating systems with slight modifications.
 
 make | model | submodel | year | cpu | memory | os | single-core score | multi-core score | notes
 ---- | ----- | -------- | ---- | --- | ------ | -- | ----------------- | ---------------- | -----
+Apple|MacBook Air|M4|2025|M4 10C (4P+6E)|32GB LPDDR5|macOS 26.3 Tahoe 25D5101c|1949|6288|
 Apple|Mac Mini|M1|2020|APL1102|16GB LPDDR4X-4266 SDRAM|macOS 26 Tahoe|1376|4325|
 HP|ZBook|Firefly 15.6 G8|2021|Intel Core i7-1185G7|32GB DDR4-3200 non-ECC SDRAM|Ubuntu Desktop 24.04 (64-bit)|1437|4090|
 Acer|Aspire|E 15|2018|Intel Core i5-8250U |8GB DDR4 |Linux Mint 20.1 Ulyssa - Cinnamon (64-bit)|999|3025|
